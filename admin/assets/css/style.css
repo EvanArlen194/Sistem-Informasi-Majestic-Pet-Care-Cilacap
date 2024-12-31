@@ -1,0 +1,59 @@
+.btn-green {
+  background: #00bd56;
+  border: 1px solid #00bd56;
+  color: #fff;
+}
+.btn-green:hover {
+  border: 1px solid #00bd56;
+  background: transparent;
+  color: #00bd56;
+}
+
+.btn-abu {
+  background: #67748e;
+  border: 1px solid #67748e;
+  color: #fff;
+}
+.btn-abu:hover {
+  border: 1px solid #67748e;
+  background: transparent;
+  color: #67748e;
+}
+
+.btn-bahaya {
+  background: #ff5252;
+  border: 1px solid #ff5252;
+  color: #fff;
+}
+.btn-bahaya:hover {
+  border: 1px solid #ff5252;
+  background: transparent;
+  color: #ff5252;
+}
+
+.btn-inpo {
+  background: #11cdef;
+  border: 1px solid #11cdef;
+  color: #fff;
+}
+.btn-inpo:hover {
+  border: 1px solid #11cdef;
+  background: transparent;
+  color: #11cdef;
+}
+
+.btn-awas {
+  background: #ffab00;
+  border: 1px solid #ffab00;
+  color: #fff;
+}
+.btn-awas:hover {
+  border: 1px solid #ffab00;
+  background: transparent;
+  color: #ffab00;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #00bd56 !important;
+  color: #ffffff !important;
+}
